@@ -1,1 +1,2 @@
-# Mini-Project-12-Audio-to-Text
+# Speech Recognizer
+Program to convert audio file into text file
